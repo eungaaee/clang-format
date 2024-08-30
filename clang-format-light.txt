@@ -1,0 +1,17 @@
+---
+BasedOnStyle: Google
+AlignConsecutiveAssignments:
+  PadOperators: false
+AlignOperands: DontAlign
+AllowShortIfStatementsOnASingleLine: AllIfsAndElse
+AlwaysBreakBeforeMultilineStrings: false
+BreakAdjacentStringLiterals: false
+BreakBeforeBinaryOperators: All
+BreakStringLiterals: false
+ColumnLimit: 0
+EmptyLineBeforeAccessModifier: Leave
+IndentWidth: 4
+ReflowComments: false
+SpaceBeforeRangeBasedForLoopColon: false
+SpacesInAngles: Leave
+SpacesInContainerLiterals: false
